@@ -82,6 +82,7 @@ The purpose of selecting this ML problem and data is due to my current project a
 ## License
 This project is licensed under the MIT License see the LICENSE file for details
 
-## (OPTIONAL: CONTACT DETAILS)
-Developer       : Anshul Jain
-Last updated    : April'2024
+
+_Developer       : Anshul Jain_
+
+_Last updated    : April'2024_
